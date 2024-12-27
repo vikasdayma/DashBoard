@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import { Routes,Route } from 'react-router'
-import Dashboard from './components/dashboard/dashboard'
+import Dashboard from './components/dashboard/Dashboard'
 function App() {
 
 
